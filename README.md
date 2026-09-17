@@ -1,16 +1,15 @@
-## Hi there 👋
+# Maurice / volknichtx
 
-<!--
-**volknichtx/volknichtx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I like systems that are fast, observable and hard to break.
 
-Here are some ideas to get you started:
+Computer Science student from Germany, building things around **backend engineering, infrastructure and security**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```txt
+code        Go · Java · C 
+systems     Linux · Docker · Proxmox
+automation  Ansible · CI/CD
+observability Prometheus · Grafana
+security    breaking things to understand them
+```
+
+Currently learning, building and occasionally wondering why it worked on localhost.
